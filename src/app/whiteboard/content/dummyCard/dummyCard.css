@@ -1,0 +1,18 @@
+
+.Dcard {
+    padding-top: 10px;
+}
+
+.DcardWrapper {
+    margin-left: 10px;
+    margin-right: 10px;
+
+    background: grey;
+    padding: 10px;
+}
+
+.DcardTitle {
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}

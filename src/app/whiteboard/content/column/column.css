@@ -1,0 +1,13 @@
+.column {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background: #d2d2d2;
+
+}
+
+.columnContent {
+    display: flex;
+    margin: 10px;
+
+}
